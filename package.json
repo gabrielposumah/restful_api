@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gabrielposumah/restful_api/issues"
   },
-  "homepage": "https://github.com/gabrielposumah/restful_api#readme"
+  "homepage": "https://github.com/gabrielposumah/restful_api#readme",
+  "dependencies": {
+    "express-mysql-session": "^2.1.8"
+  }
 }
